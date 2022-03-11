@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebaseadress">https://testapp-b7b59-default-rtdb.europe-west1.firebasedatabase.app</string>
+</resources>

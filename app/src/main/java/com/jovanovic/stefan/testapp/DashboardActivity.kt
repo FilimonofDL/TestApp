@@ -30,5 +30,10 @@ class DashboardActivity : AppCompatActivity() {
             startActivity(intent)
             finish()
         }
+        btDashOthet.setOnClickListener {
+            System.out.println("Oth butt");
+            val intent = Intent(this, Insrument::class.java)
+            startActivity(intent)
+        }
     }
 }

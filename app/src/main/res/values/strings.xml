@@ -6,4 +6,14 @@
     <string name="name">Name</string>
     <string name="email_address">Email address</string>
     <string name="sign_out">Sign out</string>
+    <string name="otchet">Отчёт</string>
+    <string name="idInstrum">№</string>
+    <string name="nameInstr">Наименование</string>
+    <string name="instrType">Тип</string>
+    <string name="instrStoim">Стоимость</string>
+    <string name="instrDataPokup">Дата покупки</string>
+    <string name="instrSosotoyanie">Состояние</string>
+    <string name="instrUkogo">У кого</string>
+    <string name="instrSN">S/N</string>
+    <string name="save">Сохранить</string>
 </resources>
