@@ -113,7 +113,11 @@ class Insrument : AppCompatActivity() {
         }
         )
 
-
+        btInstrMySQL.setOnClickListener {
+            System.out.println("Oth butt");
+            val intent = Intent(this, Sql::class.java)
+            startActivity(intent)
+        }
 
 
 
